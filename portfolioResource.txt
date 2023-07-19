@@ -1,0 +1,2 @@
+The use of github is to show the users projects and how often they work on projects. With my account I have a couple of projects that i have worked on in class saved. This is so i can go back and see the work that ive done in 
+case i need to reference it later. Another use for Github is to share a project in a team setting. Plenty of people are able to work on the same project and make different changes to different parts of the code at the same time.
